@@ -4,8 +4,11 @@
 - Luís Felipe
 
 # Quick general knowledge test 
-- https://notebooklm.link.google/pdI8oY0kOVeV 
-
+- https://notebooklm.link.google/pdI8oY0kOVeV
+- 
+# Ouça o PodCast 
+- https://notebooklm.link.google/DycaN6fUOm19
+  
 # Mind Map
 <img width="2534" height="1336" alt="NotebookLM Mind Map (15)" src="https://github.com/user-attachments/assets/efa32e3d-4291-40d2-96d6-dc9fc730df6e" />
 
